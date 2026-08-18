@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/abhishekjha-cse/leetcode/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/abhishekjha-cse/leetcode/tree/master/0392-is-subsequence) |
 | [3110-score-of-a-string](https://github.com/abhishekjha-cse/leetcode/tree/master/3110-score-of-a-string) |
 ## Dynamic Programming
