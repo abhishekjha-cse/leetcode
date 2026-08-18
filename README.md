@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhishekjha-cse/leetcode/tree/master/0053-maximum-subarray) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/abhishekjha-cse/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [2678-number-of-senior-citizens](https://github.com/abhishekjha-cse/leetcode/tree/master/2678-number-of-senior-citizens) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/abhishekjha-cse/leetcode/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/abhishekjha-cse/leetcode/tree/master/0392-is-subsequence) |
+| [2678-number-of-senior-citizens](https://github.com/abhishekjha-cse/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/abhishekjha-cse/leetcode/tree/master/3110-score-of-a-string) |
 ## Dynamic Programming
 |  |
