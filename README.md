@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/abhishekjha-cse/leetcode/tree/master/0392-is-subsequence) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/abhishekjha-cse/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
