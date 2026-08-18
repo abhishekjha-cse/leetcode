@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhishekjha-cse/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/abhishekjha-cse/leetcode/tree/master/0053-maximum-subarray) |
+| [0485-max-consecutive-ones](https://github.com/abhishekjha-cse/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/abhishekjha-cse/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2678-number-of-senior-citizens](https://github.com/abhishekjha-cse/leetcode/tree/master/2678-number-of-senior-citizens) |
 ## Two Pointers
