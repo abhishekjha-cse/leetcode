@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhishekjha-cse/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/abhishekjha-cse/leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/abhishekjha-cse/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/abhishekjha-cse/leetcode/tree/master/0053-maximum-subarray) |
 | [0485-max-consecutive-ones](https://github.com/abhishekjha-cse/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/abhishekjha-cse/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhishekjha-cse/leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/abhishekjha-cse/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/abhishekjha-cse/leetcode/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/abhishekjha-cse/leetcode/tree/master/0392-is-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/abhishekjha-cse/leetcode/tree/master/2678-number-of-senior-citizens) |
@@ -40,8 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishekjha-cse/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/abhishekjha-cse/leetcode/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhishekjha-cse/leetcode/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/abhishekjha-cse/leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
