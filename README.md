@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/abhishekjha-cse/leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/abhishekjha-cse/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/abhishekjha-cse/leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/abhishekjha-cse/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/abhishekjha-cse/leetcode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/abhishekjha-cse/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/abhishekjha-cse/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/abhishekjha-cse/leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/abhishekjha-cse/leetcode/tree/master/0075-sort-colors) |
 | [0392-is-subsequence](https://github.com/abhishekjha-cse/leetcode/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/abhishekjha-cse/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/abhishekjha-cse/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/abhishekjha-cse/leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -65,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhishekjha-cse/leetcode/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/abhishekjha-cse/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/abhishekjha-cse/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
