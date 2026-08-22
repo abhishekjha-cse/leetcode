@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/abhishekjha-cse/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/abhishekjha-cse/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/abhishekjha-cse/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/abhishekjha-cse/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/abhishekjha-cse/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2678-number-of-senior-citizens](https://github.com/abhishekjha-cse/leetcode/tree/master/2678-number-of-senior-citizens) |
 ## Two Pointers
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhishekjha-cse/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhishekjha-cse/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/abhishekjha-cse/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/abhishekjha-cse/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Trie
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/abhishekjha-cse/leetcode/tree/master/0680-valid-palindrome-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/abhishekjha-cse/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
