@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/abhishekjha-cse/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/abhishekjha-cse/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/abhishekjha-cse/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/abhishekjha-cse/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/abhishekjha-cse/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/abhishekjha-cse/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/abhishekjha-cse/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhishekjha-cse/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/abhishekjha-cse/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/abhishekjha-cse/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/abhishekjha-cse/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/abhishekjha-cse/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Trie
 |  |
@@ -71,16 +73,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhishekjha-cse/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/abhishekjha-cse/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/abhishekjha-cse/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/abhishekjha-cse/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/abhishekjha-cse/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhishekjha-cse/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/abhishekjha-cse/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/abhishekjha-cse/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhishekjha-cse/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/abhishekjha-cse/leetcode/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
 | ------- |
