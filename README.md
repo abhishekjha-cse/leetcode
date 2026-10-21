@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/abhishekjha-cse/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/abhishekjha-cse/leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/abhishekjha-cse/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1143-longest-common-subsequence](https://github.com/abhishekjha-cse/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/abhishekjha-cse/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2678-number-of-senior-citizens](https://github.com/abhishekjha-cse/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/abhishekjha-cse/leetcode/tree/master/3110-score-of-a-string) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhishekjha-cse/leetcode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/abhishekjha-cse/leetcode/tree/master/0392-is-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/abhishekjha-cse/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/abhishekjha-cse/leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/abhishekjha-cse/leetcode/tree/master/0704-binary-search) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/abhishekjha-cse/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
